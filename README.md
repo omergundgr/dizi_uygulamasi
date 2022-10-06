@@ -1,16 +1,14 @@
-# wistv
+# Dizi Film İzleme Uygulaması
 
-A new Flutter project.
+Flutter / Dart dili ile yazılan film izleme uygulaması m3u8 ve diğer video formatlarını destekler.
+- Dizi ve Film Kategorileri
+- Image Slider
+- Arama Kutusu
+- Yan Menü
+- Firebase Firestore Veri Yapısı
 
-## Getting Started
+## Uygulama Videosu
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/115001323/194398398-920ce1fe-a6ad-4f2c-ade8-e1587ac0684d.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
