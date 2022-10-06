@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "414800847670",
+    "project_id": "wistv-f5c4c",
+    "storage_bucket": "wistv-f5c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414800847670:android:4d7f579bb459a48c0ec997",
+        "android_client_info": {
+          "package_name": "com.ruwis.wistv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414800847670-ddvjrat0o6f9j5vmv20bdb38b70qaaam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruwis.wistv",
+            "certificate_hash": "1fcae4640c58846ee66f9d8e5c4c17f98c8f6473"
+          }
+        },
+        {
+          "client_id": "414800847670-b5mabqfu4a9e8oo0c3scvqq9tmjthmq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtmvq6kM1gH6dKqEq0Wsf_L6sUGlDlra4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414800847670-b5mabqfu4a9e8oo0c3scvqq9tmjthmq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
