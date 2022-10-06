@@ -1,6 +1,6 @@
 # Dizi Film İzleme Uygulaması
 
-Flutter / Dart dili ile yazılan film izleme uygulaması m3u8 ve diğer video formatlarını destekler.
+Flutter / Dart dili ile yazılan film izleme uygulaması `m3u8` ve diğer video formatlarını destekler.
 - Dizi ve Film Kategorileri
 - Image Slider
 - Arama Kutusu
@@ -8,7 +8,6 @@ Flutter / Dart dili ile yazılan film izleme uygulaması m3u8 ve diğer video fo
 - İsteğe bağlı HTML format içerikler
 - Firebase Firestore Veri Yapısı
 
----
 ## Kullanılan Paketler
 ![GetX](https://pub.dev/packages/get) | 
 ![carousel_slider](https://pub.dev/packages/carousel_slider) | 
@@ -20,6 +19,8 @@ Flutter / Dart dili ile yazılan film izleme uygulaması m3u8 ve diğer video fo
 ![chewie](https://pub.dev/packages/chewie) | 
 ![video_player](https://pub.dev/packages/video_player) | 
 ![webview_flutter](https://pub.dev/packages/webview_flutter)
+
+
 
 ## Uygulama Videosu
 
