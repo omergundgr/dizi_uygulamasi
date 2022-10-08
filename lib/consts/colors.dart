@@ -1,6 +1,6 @@
 import 'package:flutter/animation.dart';
 
-abstract class MyColors {
+class MyColors {
   static Color softWhite = const Color.fromARGB(255, 228, 228, 228);
   static Color appbarColor = const Color(0xFF26424F);
   static Color backgroundColor = const Color(0xFF1E3A46);
